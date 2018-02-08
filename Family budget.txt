@@ -1,0 +1,75 @@
+OUTPUT 1
+                ****Welcome****
+Please Enter your following information as prompted
+Enter your Family Name:james davis
+Enter your Family ID number:1251
+Member's in family:4
+Enter your income:28000
+Enter your total debts:4800
+**********************************************************
+            Family budget assistance center
+                     February 2016
+                Telephone: (800)555-1234
+**********************************************************
+Family name:               davis
+Identification number:    1251
+Family size:              4
+Annual income:           $28000
+Total debt:              $4800
+Expected living expenses:$20000
+Monthly payment for debt:$400
+Savings:                 $1856
+Service fee:             $280
+Thank you for using your Family Budget Assistance Center.
+
+OUTPUT 2
+                ****Welcome****
+Please Enter your following information as prompted
+Enter your Family Name:Lisa James
+Enter your Family ID number:1255
+Member's in family:5
+Enter your income:39000
+Enter your total debts:3200
+**********************************************************
+            Family budget assistance center
+                     February 2016
+                Telephone: (800)555-1234
+**********************************************************
+Family name:               James
+Identification number:    1255
+Family size:              5
+Annual income:           $39000
+Total debt:              $3200
+Expected living expenses:$25000
+Monthly payment for debt:$266.667
+Savings:                 $3580
+Service fee:             $390
+Thank you for using your Family Budget Assistance Center.
+
+OUTPUT 3
+                ****Welcome****
+Please Enter your following information as prompted
+Enter your Family Name:Krishna Rana
+Enter your Family ID number:1260
+Member's in family:4
+Enter your income:25000
+Enter your total debts:5300
+**********************************************************
+            Family budget assistance center
+                     February 2016
+                Telephone: (800)555-1234
+**********************************************************
+Family name:               Rana
+Identification number:    1260
+Family size:              4
+Annual income:           $25000
+Total debt:              $5300
+Expected living expenses:$20000
+Monthly payment for debt:$441.667
+Savings:                 $1576
+Service fee:             $250
+Thank you for using your Family Budget Assistance Center.
+
+
+
+
